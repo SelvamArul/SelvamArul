@@ -1,4 +1,6 @@
-### Hi there :wave: I am a robotics perception researcher working on object detection, pose estimation, and pose representations.
+### Hi there :raised_hand_with_fingers_splayed: 
+
+I am Arul. I am a robotics perception researcher working on object detection, pose estimation, and pose representations.
 
 <!--
 **SelvamArul/SelvamArul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +16,10 @@ Here are some ideas to get you started:
     - [CENTAURO](https://www.ais.uni-bonn.de/nimbro/Explorer/)
 
 
-https://github.com/SelvamArul/SelvamArul/assets/7311434/5f7e2102-f66e-4b49-9124-711f027b7bb7
+https://github.com/SelvamArul/SelvamArul/assets/7311434/cc2bb57d-6b24-4c6d-a71e-97b06ee1ad9b
+
+
+
 
 
 
