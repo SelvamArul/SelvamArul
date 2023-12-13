@@ -1,4 +1,4 @@
-### Hi there :raised_hand_with_fingers_splayed: 
+### Hi there <img src="https://media.tenor.com/oqXocliEYAMAAAAi/hello-yellow.gif)" width="30" />
 
 I am Arul. I am a robotics perception researcher working on object detection, pose estimation, and pose representations.
 
