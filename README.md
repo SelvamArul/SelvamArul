@@ -1,24 +1,15 @@
 ### Arul Selvam Periyasamy
 
-Robotic perception at **Neura Robotics**. I work on **multi-object 6D pose estimation**, tracking, and perception for manipulation.
+**Robotic Perception Expert** at [Neura Robotics](https://www.neura-robotics.com/). I develop perception for manipulation: **multi-object 6D pose estimation**, tracking, and scene understanding.
 
-Previously: Ph.D. (University of Bonn, Autonomous Intelligent Systems), research at Siemens AG, **Team NimbRo** / **NimbRo Picking**.
+**Background:** Ph.D. in computer science (University of Bonn, Autonomous Intelligent Systems); research at Siemens AG; **Team NimbRo** and **NimbRo Picking** (competition robotics).
 
-**Focus:** 6D pose · temporal fusion · transformers & keypoint regression · ROS · edge deployment
+**Interests:** 6D pose · multi-object tracking · learning-based vision · ROS · deployment on embedded systems
 
-#### Featured: MOTPose (ICRA 2024)
+#### Snapshot
 
-*MOTPose: Multi-object 6D Pose Estimation for Dynamic Video Sequences using Attention-based Temporal Fusion*
+The clip below is a short preview of my research (placeholder until a dedicated showreel is added).
 
-![MOTPose demo](./assets/motpose-preview.gif)
+![Research preview](./assets/motpose-preview.gif)
 
-[Preview clip (MP4)](./assets/motpose-preview.mp4)
-
-**Full video (with captions):** [ais.uni-bonn.de/videos/tempose](https://ais.uni-bonn.de/videos/tempose/) · [Paper](https://www.ais.uni-bonn.de/papers/ICRA_2024_Periyasamy)
-
-#### Also see
-
-- [YOLOPose V2 (Robotics and Autonomous Systems, 2023)](https://selvamarul.github.io/publications/)
-- [SynPick (IEEE CASE, 2021)](https://selvamarul.github.io/publications/)
-
-[Full publication list →](https://selvamarul.github.io/publications/) · [Personal site](https://selvamarul.github.io/)
+[Publications & CV](https://selvamarul.github.io/) · [LinkedIn](https://www.linkedin.com/in/arulselvamperiyasamy)
