@@ -1,14 +1,18 @@
 ### Arul Selvam Periyasamy
 
-**Robotic Perception Expert** at [Neura Robotics](https://www.neura-robotics.com/). I develop perception for manipulation: **multi-object 6D pose estimation**, tracking, and scene understanding.
+**Robotic Perception Expert** at [Neura Robotics](https://www.neura-robotics.com/). I work on perception and learning for **embodied systems**—connecting vision, language, and action on real platforms.
 
-**Background:** Ph.D. in computer science (University of Bonn, Autonomous Intelligent Systems); research at Siemens AG; **Team NimbRo** and **NimbRo Picking** (competition robotics).
+**Now:** vision–language–action (VLA) models, multimodal scene understanding, and perception stacks for manipulation and human–robot interaction.
 
-**Interests:** 6D pose · multi-object tracking · learning-based vision · ROS · deployment on embedded systems
+**Earlier work** (still part of how I build systems): multi-object **6D pose** estimation and tracking, synthetic data, and competition-scale autonomous manipulation (**Team NimbRo** / **NimbRo Picking**).
+
+**Background:** Ph.D., University of Bonn (Autonomous Intelligent Systems); research scientist in edge computing, Siemens AG.
+
+**Topics:** VLA · embodied AI · 3D perception · real-time inference · ROS / edge deployment
 
 #### Snapshot
 
-The clip below is a short preview of my research (placeholder until a dedicated showreel is added).
+Short clip illustrating earlier research output (placeholder until an updated showreel).
 
 ![Research preview](./assets/motpose-preview.gif)
 
