@@ -10,7 +10,7 @@ Previously: Ph.D. (University of Bonn, Autonomous Intelligent Systems), research
 
 *MOTPose: Multi-object 6D Pose Estimation for Dynamic Video Sequences using Attention-based Temporal Fusion*
 
-./assets/motpose-preview.mp4
+![MOTPose demo](./assets/motpose-preview.mp4)
 
 **Full video (with captions):** [ais.uni-bonn.de/videos/tempose](https://ais.uni-bonn.de/videos/tempose/) · [Paper](https://www.ais.uni-bonn.de/papers/ICRA_2024_Periyasamy)
 
